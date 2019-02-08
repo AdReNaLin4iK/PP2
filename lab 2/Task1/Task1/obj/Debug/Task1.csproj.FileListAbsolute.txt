@@ -1,0 +1,2 @@
+C:\Users\Alpha\Desktop\ABBeration\C#\lab 2\Task1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\Alpha\Desktop\ABBeration\C#\lab 2\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
