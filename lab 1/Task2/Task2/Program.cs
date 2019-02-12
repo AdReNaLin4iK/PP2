@@ -6,45 +6,49 @@ using System.Threading.Tasks;
 
 namespace Task2
 {
-    class Program
+    public class Student
     {
-        static bool isPrime(int x)
+        string name;
+        string id;
+        int ys;
+
+        public Student (string name, string id)
         {
-            if (x == 1) return false;
-            for (int i=2; i<= Math.Sqrt(x); i++)
-            {
-                if (x % i == 0)
-                {
-                    return false;
-                }
-            }
-            return true;
+            this.name = name;
+            this.id = id;
+            this.ys = 1;
         }
 
+        public string getName()
+        {
+            return this.name;
+        }
+
+        public string getId()
+        {
+            return this.id;
+        }
+
+        public string incYear()
+        {
+            this.ys++;
+        }
+
+        public override string ToString()
+        {
+            return name + " " + id + " " + ys;
+        }
+    }
+
+    class Program
+    {
         static void Main(string[] args)
         {
-            int n;
-            n = int.Parse(Console.ReadLine());
-
-            string ans = "";
-
-            string s;
-            s = Console.ReadLine();
-            int count = 0;
-
-            string[] arr = s.Split(' ');
-            
-            for (int i=0; i <arr.Length; i++)
-            {
-                int p = int.Parse(arr[i]);
-                if (isPrime(p))
-                {
-                    count++;
-                    ans += arr[i] + " ";
-                }
-            }
-            Console.WriteLine(count);
-            Console.WriteLine(ans);
+            Student p = new Student("Abdullakh", "18BD410341");
+            Console.WriteLine(p);
+            p.incYear();
+            Console.WriteLine(p.getId());
+            Console.WriteLine(p);
             Console.ReadKey();
         }
     }
