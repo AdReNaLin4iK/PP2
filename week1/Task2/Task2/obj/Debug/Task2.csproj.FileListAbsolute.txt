@@ -1,0 +1,13 @@
+C:\Users\Alpha\Desktop\ABBeration\C#\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Users\Alpha\Desktop\ABBeration\C#\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\Alpha\Desktop\ABBeration\C#\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\Alpha\Desktop\ABBeration\C#\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Alpha\Desktop\ABBeration\C#\Task2\Task2\obj\Debug\Task2.exe
+C:\Users\Alpha\Desktop\ABBeration\C#\Task2\Task2\obj\Debug\Task2.pdb
+C:\Users\Alpha\Desktop\ABBeration\C#\lab 1\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Users\Alpha\Desktop\ABBeration\C#\lab 1\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\Alpha\Desktop\ABBeration\C#\lab 1\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\Alpha\Desktop\ABBeration\C#\lab 1\Task2\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+C:\Users\Alpha\Desktop\ABBeration\C#\lab 1\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Alpha\Desktop\ABBeration\C#\lab 1\Task2\Task2\obj\Debug\Task2.exe
+C:\Users\Alpha\Desktop\ABBeration\C#\lab 1\Task2\Task2\obj\Debug\Task2.pdb

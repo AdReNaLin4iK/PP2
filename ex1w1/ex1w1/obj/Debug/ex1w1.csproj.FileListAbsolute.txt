@@ -1,7 +1,0 @@
-C:\Users\Alpha\Desktop\ABBeration\C#\ex1w1\ex1w1\obj\Debug\ex1w1.csprojAssemblyReference.cache
-C:\Users\Alpha\Desktop\ABBeration\C#\ex1w1\ex1w1\obj\Debug\ex1w1.csproj.CoreCompileInputs.cache
-C:\Users\Alpha\Desktop\ABBeration\C#\ex1w1\ex1w1\bin\Debug\ex1w1.exe.config
-C:\Users\Alpha\Desktop\ABBeration\C#\ex1w1\ex1w1\bin\Debug\ex1w1.exe
-C:\Users\Alpha\Desktop\ABBeration\C#\ex1w1\ex1w1\bin\Debug\ex1w1.pdb
-C:\Users\Alpha\Desktop\ABBeration\C#\ex1w1\ex1w1\obj\Debug\ex1w1.exe
-C:\Users\Alpha\Desktop\ABBeration\C#\ex1w1\ex1w1\obj\Debug\ex1w1.pdb
