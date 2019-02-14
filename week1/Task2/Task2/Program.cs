@@ -44,10 +44,9 @@ namespace Task2
     {
         static void Main(string[] args)
         {
-            Student p = new Student("Abdullakh", "18BD410341");
+            Student p = new Student("Erlan", "19BD001122");
             Console.WriteLine(p);
             p.incGod();
-            Console.WriteLine(p.printId());
             Console.WriteLine(p);
             Console.ReadKey();
         }
